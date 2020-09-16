@@ -1,8 +1,7 @@
 # LAB - git_intro
 Lab - Introduction to Git
-Moi camille je modifie hihi
 
-*test test*
+*Charlotte test*
 
 ## Authors
 * Charlotte Sirot <charlotte.sirot@edu.ece.fr>
