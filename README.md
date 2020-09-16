@@ -1,6 +1,6 @@
 # LAB - git_intro
 Lab - Introduction to Git
-Moi camille je modifie hihi
+Je modifie une deuxième fois (camille)
 
 ## Authors
 * Charlotte Sirot <charlotte.sirot@edu.ece.fr>
