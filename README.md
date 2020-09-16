@@ -2,7 +2,7 @@
 Lab - Introduction to Git
 Moi camille je modifie hihi
 
-*test*
+*test test*
 
 ## Authors
 * Charlotte Sirot <charlotte.sirot@edu.ece.fr>
